@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/jl1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-core-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-core-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-device-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-device-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-example.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-example-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-example-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-gpio-extension-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-gpio-extension-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-service.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-service-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/pi4j-service-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/T4MBS1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="C:/Users/busra.tural/Desktop/MBS1/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/pi4j-1.2 (1)/pi4j-1.2/lib/pi4j-core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
